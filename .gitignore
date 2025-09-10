@@ -1,0 +1,3 @@
+slope_showdown_*.csv
+*.pyc
+__pycache__/
